@@ -29,8 +29,8 @@ To run the Weather App locally, follow these steps:
    ```shell
    git clone https://github.com/yourusername/weather-app.git
 Navigate to the project directory:
-
-cd weather-app
+   ```shell
+   cd weather-app
 Open the index.html file in your web browser or serve the project using a development server.
 
 Usage
