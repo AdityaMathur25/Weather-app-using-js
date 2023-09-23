@@ -12,7 +12,8 @@
 ## Description
 The Weather App is a simple JavaScript application that allows users to check the current weather conditions for a given location. It provides real-time weather information, including temperature, humidity, wind speed, and weather conditions.
 
-![Weather App Screenshot](screenshot.png)
+![weather app screenshot](https://github.com/AdityaMathur25/Weather-app-using-js/assets/61025539/142af66e-0c38-4515-a7ab-481592fdb435)
+
 
 ## Features
 - Get the current weather for a specified location.
@@ -29,8 +30,6 @@ To run the Weather App locally, follow these steps:
    git clone https://github.com/yourusername/weather-app.git
 Navigate to the project directory:
 
-shell
-Copy code
 cd weather-app
 Open the index.html file in your web browser or serve the project using a development server.
 
