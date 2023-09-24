@@ -6,7 +6,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#Tech Stack)
+- [Technologies Used](#Tech-Stack)
 
 
 ## Description
